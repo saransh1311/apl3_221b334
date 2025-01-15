@@ -32,7 +32,7 @@ class Juet{
 public class Main{
      public static void main(String args[]){
          Juet juet=new Juet();
-         juet.set("SAPNA TIWARI",21);
+         juet.set("Saransh Garg",21);
          System.out.println(juet.getName());
          System.out.println(juet.getAge());
      }
